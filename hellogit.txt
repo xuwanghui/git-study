@@ -1,0 +1,15 @@
+[vim] hellogit.txt 创建txt文件并编辑
+如果文件存在则直接进入 不存在则创建该文件并进入
+输入[i]进入编辑状态
+按下[esc]退出编辑状态
+按下[:wq]表示保存退出
+不需要进入编辑状态按下yy复制 按下p表示粘贴
+将光标移动到指定行 按下dd删除该行
+hello git
+hello git
+hello git
+
+
+git add 文件名 表示将文件提交到暂存区
+git status 查看当前git的状态
+git rm --cached 文件名 表示从暂存区中删除该文件
