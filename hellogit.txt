@@ -11,5 +11,4 @@ git status 查看当前git的状态
 git rm --cached 文件名 表示从暂存区中删除该文件
 master changed
 
-
-new-fix ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+还有三节课吃饭
